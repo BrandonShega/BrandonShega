@@ -1,4 +1,12 @@
-### Hi there 👋
+![peace](https://i.imgur.com/iHUcg05.png)
+
+# Hi there! 👋
+I'm Brandon Shega (@BrandonShega) and I'm an iOS developer who loves to learn new things and apply what I learn to solving problems.
+
+## Get in touch
+* Twitter: https://www.twitter.com/BrandonShega
+* LinkedIn: https://www.linkedin.com/in/BrandonShega
+* Discord: Smoochii#1890
 
 <!--
 **BrandonShega/BrandonShega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
