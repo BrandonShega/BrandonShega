@@ -1,4 +1,4 @@
-![peace](https://i.imgur.com/iHUcg05.png)
+![computer](https://i.imgur.com/t8sKwSC.png)
 
 # Hi there! 👋
 I'm Brandon Shega (@BrandonShega) and I'm an iOS developer who loves to learn new things and apply what I learn to solving problems.
